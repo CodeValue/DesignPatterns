@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain.Sample1", "Chain.Sample1\Chain.Sample1.csproj", "{D157E81D-AFB6-4745-A0A5-AB9E5446C7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command.Sample1", "Command.Sample1\Command.Sample1.csproj", "{986354B4-2AE8-42B3-BE18-898D886413DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter.Sample1", "Interpreter.Sample1\Interpreter.Sample1.csproj", "{C3C1CC3A-4359-4256-AC92-C70AF8A38C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Sample1", "Iterator.Sample1\Iterator.Sample1.csproj", "{166953A6-0D0B-47E8-930D-F669C82FB644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator.Sample2", "Iterator.Sample2\Iterator.Sample2.csproj", "{0A75237F-7AF4-4424-8F7A-42F79C9D9F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator.Sample1", "Mediator.Sample1\Mediator.Sample1.csproj", "{F655AAED-3FD6-4B89-AD8D-859AA02095AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento.Sample1", "Memento.Sample1\Memento.Sample1.csproj", "{5BC33C93-3CF4-4D5B-8A6A-944157736A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Sample1", "Observer.Sample1\Observer.Sample1.csproj", "{14CF92DE-49E4-4BBE-9148-270F23BAD069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State.Sample1", "State.Sample1\State.Sample1.csproj", "{2085E4A7-6A67-4D09-9DE3-2A2CD9BC4AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy.Sample1", "Strategy.Sample1\Strategy.Sample1.csproj", "{24518639-7446-4405-BAEB-21698A38A4D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod.Sample1", "TemplateMethod.Sample1\TemplateMethod.Sample1.csproj", "{0445CD28-1C71-429B-86C5-5330301EFBAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor.Sample1", "Visitor\Visitor.Sample1.csproj", "{017FCE61-18B9-4FF3-9DD6-16856F050B6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D157E81D-AFB6-4745-A0A5-AB9E5446C7F0}.Debug|x86.ActiveCfg = Debug|x86
+		{D157E81D-AFB6-4745-A0A5-AB9E5446C7F0}.Debug|x86.Build.0 = Debug|x86
+		{D157E81D-AFB6-4745-A0A5-AB9E5446C7F0}.Release|x86.ActiveCfg = Release|x86
+		{D157E81D-AFB6-4745-A0A5-AB9E5446C7F0}.Release|x86.Build.0 = Release|x86
+		{986354B4-2AE8-42B3-BE18-898D886413DD}.Debug|x86.ActiveCfg = Debug|x86
+		{986354B4-2AE8-42B3-BE18-898D886413DD}.Debug|x86.Build.0 = Debug|x86
+		{986354B4-2AE8-42B3-BE18-898D886413DD}.Release|x86.ActiveCfg = Release|x86
+		{986354B4-2AE8-42B3-BE18-898D886413DD}.Release|x86.Build.0 = Release|x86
+		{C3C1CC3A-4359-4256-AC92-C70AF8A38C25}.Debug|x86.ActiveCfg = Debug|x86
+		{C3C1CC3A-4359-4256-AC92-C70AF8A38C25}.Debug|x86.Build.0 = Debug|x86
+		{C3C1CC3A-4359-4256-AC92-C70AF8A38C25}.Release|x86.ActiveCfg = Release|x86
+		{C3C1CC3A-4359-4256-AC92-C70AF8A38C25}.Release|x86.Build.0 = Release|x86
+		{166953A6-0D0B-47E8-930D-F669C82FB644}.Debug|x86.ActiveCfg = Debug|x86
+		{166953A6-0D0B-47E8-930D-F669C82FB644}.Debug|x86.Build.0 = Debug|x86
+		{166953A6-0D0B-47E8-930D-F669C82FB644}.Release|x86.ActiveCfg = Release|x86
+		{166953A6-0D0B-47E8-930D-F669C82FB644}.Release|x86.Build.0 = Release|x86
+		{0A75237F-7AF4-4424-8F7A-42F79C9D9F39}.Debug|x86.ActiveCfg = Debug|x86
+		{0A75237F-7AF4-4424-8F7A-42F79C9D9F39}.Debug|x86.Build.0 = Debug|x86
+		{0A75237F-7AF4-4424-8F7A-42F79C9D9F39}.Release|x86.ActiveCfg = Release|x86
+		{0A75237F-7AF4-4424-8F7A-42F79C9D9F39}.Release|x86.Build.0 = Release|x86
+		{F655AAED-3FD6-4B89-AD8D-859AA02095AB}.Debug|x86.ActiveCfg = Debug|x86
+		{F655AAED-3FD6-4B89-AD8D-859AA02095AB}.Debug|x86.Build.0 = Debug|x86
+		{F655AAED-3FD6-4B89-AD8D-859AA02095AB}.Release|x86.ActiveCfg = Release|x86
+		{F655AAED-3FD6-4B89-AD8D-859AA02095AB}.Release|x86.Build.0 = Release|x86
+		{5BC33C93-3CF4-4D5B-8A6A-944157736A38}.Debug|x86.ActiveCfg = Debug|x86
+		{5BC33C93-3CF4-4D5B-8A6A-944157736A38}.Debug|x86.Build.0 = Debug|x86
+		{5BC33C93-3CF4-4D5B-8A6A-944157736A38}.Release|x86.ActiveCfg = Release|x86
+		{5BC33C93-3CF4-4D5B-8A6A-944157736A38}.Release|x86.Build.0 = Release|x86
+		{14CF92DE-49E4-4BBE-9148-270F23BAD069}.Debug|x86.ActiveCfg = Debug|x86
+		{14CF92DE-49E4-4BBE-9148-270F23BAD069}.Debug|x86.Build.0 = Debug|x86
+		{14CF92DE-49E4-4BBE-9148-270F23BAD069}.Release|x86.ActiveCfg = Release|x86
+		{14CF92DE-49E4-4BBE-9148-270F23BAD069}.Release|x86.Build.0 = Release|x86
+		{2085E4A7-6A67-4D09-9DE3-2A2CD9BC4AA8}.Debug|x86.ActiveCfg = Debug|x86
+		{2085E4A7-6A67-4D09-9DE3-2A2CD9BC4AA8}.Debug|x86.Build.0 = Debug|x86
+		{2085E4A7-6A67-4D09-9DE3-2A2CD9BC4AA8}.Release|x86.ActiveCfg = Release|x86
+		{2085E4A7-6A67-4D09-9DE3-2A2CD9BC4AA8}.Release|x86.Build.0 = Release|x86
+		{24518639-7446-4405-BAEB-21698A38A4D3}.Debug|x86.ActiveCfg = Debug|x86
+		{24518639-7446-4405-BAEB-21698A38A4D3}.Debug|x86.Build.0 = Debug|x86
+		{24518639-7446-4405-BAEB-21698A38A4D3}.Release|x86.ActiveCfg = Release|x86
+		{24518639-7446-4405-BAEB-21698A38A4D3}.Release|x86.Build.0 = Release|x86
+		{0445CD28-1C71-429B-86C5-5330301EFBAB}.Debug|x86.ActiveCfg = Debug|x86
+		{0445CD28-1C71-429B-86C5-5330301EFBAB}.Debug|x86.Build.0 = Debug|x86
+		{0445CD28-1C71-429B-86C5-5330301EFBAB}.Release|x86.ActiveCfg = Release|x86
+		{0445CD28-1C71-429B-86C5-5330301EFBAB}.Release|x86.Build.0 = Release|x86
+		{017FCE61-18B9-4FF3-9DD6-16856F050B6D}.Debug|x86.ActiveCfg = Debug|x86
+		{017FCE61-18B9-4FF3-9DD6-16856F050B6D}.Debug|x86.Build.0 = Debug|x86
+		{017FCE61-18B9-4FF3-9DD6-16856F050B6D}.Release|x86.ActiveCfg = Release|x86
+		{017FCE61-18B9-4FF3-9DD6-16856F050B6D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
